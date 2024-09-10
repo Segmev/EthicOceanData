@@ -1,6 +1,6 @@
 {
     "home": {
-        "questions":  [
+        "questions": [
             "Qu'est-ce que la pêche durable ?\n\nLa pêche durable correspond à un niveau d'exploitation (pression de pêche) qui ne remet pas en cause la capacité du stock à se renouveler.",
             "Les questions à se poser pour consommer des produits de la mer durables ?\n\n1) De quelle espèce s'agit-il ? (Quel est son nom scientifique ?)\n2) Est-ce une ressource sauvage ou un produit d'élevage ?\n\nPour les produits de la mer sauvages :\n1) D'où provient-il ? Le stock est-il en bon état ?\n2) Quelle est la technique de pêche utilisée ? Est-ce un engin respectueux de l'environnement ?\n3) A-t-il atteint sa taille de maturité ? (A-t-il eu le temps de se reproduire ?)\n\nPour les produits d'élevage :\n1) Où a-t-il été élevé ?\n2) Quelles sont les conditions d'élevage ?\n3) La ferme est-elle éco-certifiée ?",
             "Quelle est la quantité de stocks surexploités ?\n\nAu niveau mondial : Plus d'un tiers (34,2 %) des ressources marines sont surexploitées.\nEn Atlantique Nord-Est : 43 % des ressources marines sont surexploitées.\nEn Méditerranée : 83 % des stocks évalués scientifiquement sont surexploités (soit 8 stocks sur 10) mais beaucoup d'autres demeurent non évalués.",
@@ -13,7 +13,7 @@
             "À quoi correspondent les écolabels ?\n\nUn label atteste que le produit qui le porte possède certaines caractéristiques relatives à sa production ou à sa composition. L'écolabel ou label écologique vise à promouvoir les produits qui ont un impact faible sur l'environnement. Dans le domaine des produits de la mer, on distingue les écolabels destinés aux poissons sauvages et ceux destinés aux poissons d'élevage."
         ],
         "saviez": [
-            "Les anchois sont les poissons les plus exploités de l'histoire mondiale de la pêche. La majeure partie des captures d'anchois est utilisée pour produire de la farine et d'huile de poisson, pour nourrir les animaux d'élevage.",
+            "Les anchois sont les poissons les plus exploités de l'histoire mondiale de la pêche. La majeure partie des captures d'anchois est utilisée pour produire de la farine et d'huile de poisson, pour nourrir les animaux d'élevage...",
             "Le colin d'Alaska est la première ressource halieutique destinée à la consommation humaine dans le monde (3 millions de tonnes débarquées chaque année).",
             "Les requins sont très recherchés pour leur chair, leurs nageoires et leur cartilage.  La pratique du «finning» consiste à couper les nageoires et à rejeter les animaux amputés mais encore vivants en mer, sans chance de survie. Les caractéristiques biologiques particulières des requins (maturité tardive, lente reproduction, faible population de jeunes) les rendent extrêmement vulnérables à la pression de pêche dont ils font l'objet.",
             "Les saumons naissent dans les rivières et gagnent la mer où ils passent la plus grande partie de leur vie. Pour se reproduire, ils remontent la rivière où ils sont nés. Les populations de saumons sauvages se sont fortement raréfiées partout dans le monde, à cause d'une pêche intensive, des modifications de leurs habitats et du changement climatique. La quasi-totalité du saumon consommé dans le monde est du saumon d'élevage (Salmo salar).",
@@ -42,7 +42,7 @@
                 "zones": [
                     8,
                     35,
-                    191
+                    294
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les anchois ayant eu le temps de se reproduire.\n\nRenseignez-vous sur l'origine des anchois frais et transformés avant tout achat.",
                 "tailleLegale": [
@@ -92,18 +92,11 @@
                 ],
                 "zones": [
                     38,
-                    99,
+                    97,
                     192
                 ],
-                "etatStock": "Golfe du Lion : biomasse légèrement inférieure au seuil de précaution mais population non surexploitée.\n\nMer d'Azov : état global du stock inconnu. Manque de données scientifiques.\n\nMer Égée : stock en bon état mais considéré comme surpêché en raison du manque de données sur son taux d'exploitation.\n\nPrivilégiez les anchois ayant eu le temps de se reproduire.\nRenseignez-vous sur l'origine des anchois frais et transformés avant tout achat.",
+                "etatStock": "Golfe du Lion : biomasse légèrement inférieure au seuil de précaution mais population non surexploitée.\n\nMer d'Azov : état global du stock inconnu mais population non surexploitée.\n\nSicile du Sud : état global du stock inconnu mais population non surexploitée.\n\nPrivilégiez les anchois ayant eu le temps de se reproduire.\nRenseignez-vous sur l'origine des anchois frais et transformés avant tout achat.",
                 "tailleLegale": [
-                    {
-                        "taille": "12 cm",
-                        "sousTexte": "",
-                        "zones": [
-                            1
-                        ]
-                    },
                     {
                         "taille": "9 cm",
                         "sousTexte": "",
@@ -130,9 +123,9 @@
                     16,
                     3,
                     193,
-                    194
+                    246
                 ],
-                "etatStock": "Côtes ibérique : état global du stock inconnu mais la population du sud ne se porte pas bien.\n\nMer Adriatique et mer Noire : stocks fortement surpêchés.\n\nAutres zones de Méditerranée : stocks surpêchés ou état de la population inconnu. Mais en raison de la situtation globalement dégradée en Méditerranée, adoption du principe de précaution.",
+                "etatStock": "Côtes ibérique : stock dégradé et surpêché. \n\nMer Noire : stocks fortement surpêchés.\n\nAutres zones de Méditerranée : stocks surpêchés ou état de la population inconnu. Mais en raison de la situtation globalement dégradée en Méditerranée, adoption du principe de précaution.",
                 "tailleLegale": [
                     {
                         "taille": "9 cm",
@@ -242,38 +235,17 @@
             "scientifique": "Dicentrarchus labrax",
             "especeId": 0,
             "texte": "Espèce cotière qui vit près de fonds sableux ou rocheux. Elle vit même dans des eaux saumâtres.",
-            "fichePrivilegier": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    94
-                ],
-                "etatStock": " Population en bon état et pêchée durablement.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ou les grands filets issus d'individus matures ayant eu le temps de se reproduire.\n\nPrivilégiez le bar pêché à la ligne/canne.\n\nÉvitez la consommation de bar pendant sa période de frai (de février à mai dans le golfe de Gascogne ; de mars à mai en Manche ; d'avril à juin en mer du Nord ; de décembre à mars en Méditerranée).",
-                "tailleLegale": [
-                    {
-                        "taille": "40 cm",
-                        "sousTexte": "",
-                        "zones": [
-                            8
-                        ]
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "42 cm",
-                        "sousTexte": "femelle/6 ans",
-                        "zones": [
-                            8
-                        ]
-                    }
-                ]
-            },
+            
             "ficheModeration": {
                 "provenance": [
                     0
                 ],
                 "zones": [
+                    6,
+                    4,
+                    18,
+                    5,
+                    94,
                     117,
                     16,
                     12,
@@ -281,7 +253,7 @@
                     118
                     
                 ],
-                "etatStock": "État des stocks inconnu. Manque de données scientifiques.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ou les grands filets issus d’individus matures ayant eu le temps de se reproduire.\n\nPrivilégiez le bar pêché à la ligne/canne.\n\nÉvitez la consommation de bar pendant sa période de frai (de février à mai dans le golfe de Gascogne ; d'avril à juin en mer du Nord ; de décembre à mars en Méditerranée).",
+                "etatStock": "Nord et centre du golfe de Gascogne, mer du Nord, mer d'Irlande, Manche et mer Celtique : biomasse légèrement inférieure au seuil de durabilité mais stocks non surpêchés.\n\nOuest Ecosse, Ouest et Sud Ouest Irlande, Sud du golfe de Gascogne, côtes ibériques, mer Méditerranée : état des stocks inconnu. Manque de données scientifiques.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ou les grands filets issus d’individus matures ayant eu le temps de se reproduire.\n\nPrivilégiez le bar pêché à la ligne/canne.\n\nÉvitez la consommation de bar pendant sa période de frai (de février à mai dans le golfe de Gascogne ; d'avril à juin en mer du Nord ; de décembre à mars en Méditerranée).",
                 "tailleLegale": [
                     {
                         "taille": "40 cm",
@@ -335,42 +307,6 @@
                         "sousTexte": "3 ans",
                         "zones": [
                             38
-                        ]
-                    }
-                ]
-            },
-            "ficheEviter": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    4,
-                    5,
-                    6,
-                    18
-                ],
-                "etatStock": "Malgré une faible pression de pêche, la population est proche du seuil d'effondrement.",
-                "tailleLegale": [
-                    {
-                        "taille": "42 cm",
-                        "sousTexte": "",
-                        "zones": [
-                            4,
-                            5,
-                            6,
-                            18
-                        ]
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "45 cm",
-                        "sousTexte": "femelle/6-7 ans",
-                        "zones": [
-                            18,
-                            6,
-                            5,
-                            4
                         ]
                     }
                 ]
@@ -443,11 +379,10 @@
                 ],
                 "zones": [
                     5,
-                    117,
-                    195,
+                    8,
                     16
                 ],
-                "etatStock": "Mer Celtique et golfe de Gascogne : populations des deux espèces en bon état et pêchées durablement.\n\nCôtes ibériques : populations des deux espèces en bon état et pêchées durablement.\n\nPrivilégiez les queues de lotte de plus de 45 cm (Atlantique Nord-Est), de 35 cm (Méditerranée).",
+                "etatStock": "Populations des deux espèces de baudroie en bon état et pêchées durablement.\n\nPrivilégiez les queues de lotte de plus de 45 cm (Atlantique Nord-Est), de 35 cm (Méditerranée).",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -488,16 +423,22 @@
                     }
                 ]
             },
-            "ficheModeration": {
+            
+            "ficheEviter": {
                 "provenance": [
                     0
                 ],
                 "zones": [
-                    196,
-                    197,
+                    6,
+                    42,
+                    12,
+                    13,
+                    14,
+                    10,
+                    2,
                     3
                 ],
-                "etatStock": "Mediterranée et mer Noire : état des stocks inconnu. Manque de données scientifiques.\n\nIslande (baudroie commune) : état des stocks inconnu. Manque de données scientifiques.\n\nPrivilégiez les queues de lotte de plus de 45 cm (Atlantique Nord-Est), de 35 cm (Méditerranée).",
+                "etatStock": "Mer du Nord, Rockall, Ouest Écosse, Skagerrak, Kattegat : la biomasse des deux espèces est en baisse et le stock est estimé surpêché.\n\nIslande (baudroie commune) : biomasse en baisse et stock largement surpêché.\n\nMéditerranée et mer Noire : les stocks des deux espèces sont surpêchés et dégradés.\n\nPrivilégiez les queues de lotte de plus de 45 cm (Atlantique Nord-Est), de 35 cm (Méditerranée).",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -514,46 +455,13 @@
                         "zones": [
                             10
                         ]
-                    },
-                    {
+                    },{
                         "taille": "61 cm",
                         "sousTexte": "mâle",
                         "zones": [
                             10
                         ]
                     },
-                    {
-                        "taille": "68,5 cm",
-                        "sousTexte": "femelle",
-                        "zones": [
-                            2
-                        ]
-                    }
-                ]
-            },
-            "ficheEviter": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    6,
-                    42,
-                    12,
-                    13,
-                    14,
-                    38
-                ],
-                "etatStock": "Mer du Nord, Rockall, Ouest Écosse, Skagerrak, Kattegat : la biomasse des deux espèces est en baisse et le stock est estimé surpêché.\n\nGolfe du Lion : la biomasse des espèces est très faible et le stock est surpêché.\n\nPrivilégiez les queues de lotte de plus de 45 cm (Atlantique Nord-Est), de 35 cm (Méditerranée).",
-                "tailleLegale": [
-                    {
-                        "taille": "",
-                        "sousTexte": "Aucune taille minimale mais un poids minimum de 500 g (entier vidé)",
-                        "zones": [
-                            1
-                        ]
-                    }
-                ],
-                "tailleMaturite": [
                     {
                         "taille": "102,5 cm",
                         "sousTexte": "femelle",
@@ -606,9 +514,11 @@
                     0
                 ],
                 "zones": [
-                    198
+                    267,
+                    10,
+                    268
                 ],
-                "etatStock": "Nord-Est Arctique : population en bon état et pêchée durablement.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle ou les filets/darnes/morceaux issus d'individus matures ayant eu le temps de se reproduire.\n\nPrivilégiez les individus pêchés à la ligne.",
+                "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle ou les filets/darnes/morceaux issus d'individus matures ayant eu le temps de se reproduire.\n\nPrivilégiez les individus pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "35 cm",
@@ -644,11 +554,11 @@
                     0
                 ],
                 "zones": [
-                    10,
+                    269,
                     42,
                     199
                 ],
-                "etatStock": "Islande : stock légèrement surpêché mais biomasse en bon état.\n\nBanc des îles Féroé : stock non dégradé mais surpêché.\n\nRockall : manque de données scientifiques.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ou les filets/darnes/morceaux issus d’individus matures ayant eu le temps de se reproduire.\n\nPrivilégiez les individus pêchés à la ligne.",
+                "etatStock": "Banc des îles Féroé, côte nord de la Norvège : population non dégradée mais surpêchée.\nRockall : manque de données scientifiques.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ou les filets/darnes/morceaux issus d’individus matures ayant eu le temps de se reproduire.\n\nPrivilégiez les individus pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "35 cm",
@@ -658,11 +568,11 @@
                         ]
                     },
                     {
-                        "taille": "40 cm",
+                        "taille": "44 cm",
                         "sousTexte": "",
                         "zones": [
-                            15,
-                            43
+                            44,
+                            45
                         ]
                     }
                 ],
@@ -978,10 +888,9 @@
                     0
                 ],
                 "zones": [
-                    125,
-                    203
+                    125
                 ],
-                "etatStock": "Stocks exploités durablement.\nPour les produits surgelés, il est difficile de vérifier la taille de maturité sexuelle (38 cm) ; vérifiez ce critère auprès de votre fournisseur.",
+                "etatStock": "Stock exploité durablement.\nPour les produits surgelés, il est difficile de vérifier la taille de maturité sexuelle (38 cm) ; vérifiez ce critère auprès de votre fournisseur.",
                 "tailleLegale": [
                     {
                         "taille": "35 cm",
@@ -1006,9 +915,10 @@
                     0
                 ],
                 "zones": [
-                    49
+                    49,
+                    203
                 ],
-                "etatStock": "Population en bon état mais légèrement surpêché.\n\nPour les produits surgelés, il est difficile de vérifier la taille de maturité sexuelle (38 cm) ; vérifiez ce critère auprès de votre fournisseur.",
+                "etatStock": "Stock russe de la mer d'Okhotsk: population en bon état mais légèrement surpêchée.\n\nStock japonais : stock en bon état mais qui n'a pas fait l'objet d'évaluation depuis plusieurs années.\n\nPour les produits surgelés, il est difficile de vérifier la taille de maturité sexuelle (38 cm) ; vérifiez ce critère auprès de votre fournisseur.",
                 "tailleLegale": [
                     {
                         "taille": "35 cm",
@@ -1331,6 +1241,77 @@
             "scientifique": "Melanogrammus aeglefinus",
             "especeId": 0,
             "texte": "Espèce qui vit près des fonds rocheux, graveleux ou sableux entre 40 et 300 m de profondeur.",
+            "fichePrivilegier": {
+                "provenance": [
+                    0
+                ],
+                "zones": [
+                    15,
+                    198
+                ],
+                "etatStock": "Stocks exploités durablement.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle  ou les grands filets issus d'individus matures ayant eu le temps de se reproduire.",
+                "tailleLegale": [
+                    {
+                        "taille": "30 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            1
+                        ]
+                    },
+                    {
+                        "taille": "40 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            44,
+                            45
+                        ]
+                    },
+                    {
+                        "taille": "27 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            13
+                        ]
+                    },
+                    {
+                        "taille": "37 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            15
+                        ]
+                    }
+                ],
+                "tailleMaturite": [
+                    {
+                        "taille": "46 cm",
+                        "sousTexte": "femelle/5 ans",
+                        "zones": [
+                            1
+                        ]
+                    },
+                    {
+                        "taille": "41 cm",
+                        "sousTexte": "mâle/4 ans",
+                        "zones": [
+                            1
+                        ]
+                    },
+                    {
+                        "taille": "33 cm",
+                        "sousTexte": "femelle/3 ans",
+                        "zones": [
+                            6
+                        ]
+                    },
+                    {
+                        "taille": "28 cm",
+                        "sousTexte": "mâle/2 ans",
+                        "zones": [
+                            6
+                        ]
+                    }
+                ]
+            },
             "ficheModeration": {
                 "provenance": [
                     0
@@ -1340,10 +1321,9 @@
                     12,
                     13,
                     4,
-                    42,
-                    15
+                    42
                 ],
-                "etatStock": "Mer du Nord, Ouest Écosse, Skagerrak, mer d'Irlande, Rockall : populations en bon état mais les taux de rejets sont élevés.\n\nÎles Féroé : stock légèrement surpêché.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle  ou les grands filets issus d'individus matures ayant eu le temps de se reproduire.",
+                "etatStock": "Mer du Nord, Ouest Écosse, Skagerrak, mer d'Irlande, Rockall : populations en bon état mais les taux de rejets sont élevés.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle  ou les grands filets issus d'individus matures ayant eu le temps de se reproduire.",
                 "tailleLegale": [
                     {
                         "taille": "30 cm",
@@ -1411,12 +1391,11 @@
                     0
                 ],
                 "zones": [
-                    198,
                     10,
                     5,
                     18
                 ],
-                "etatStock": "Populations en bon état mais surpêchées.",
+                "etatStock": "Populations en bon état mais surpêchées.Rejets importants.",
                 "tailleLegale": [
                     {
                         "taille": "30 cm",
@@ -1480,9 +1459,10 @@
                 ],
                 "zones": [
                     1,
-                    54
+                    54,
+                    206
                 ],
-                "etatStock": "Atlantique Nord-Est : stock épuisé.\n\nOcéan Indien : l'état des stocks est inconnu.\n\n'L'empereur de l'Atlantique Nord-Est ne doit plus se trouver sur les étals, s'il vous est proposé, ne l'achetez pas.\n\nSans certitude sur la durabilité du produit, évitez d'acheter l'empereur de toute autre origine.",
+                "etatStock": "Atlantique Nord-Est : stock épuisé.\n\nOcéan Indien : l'état des stocks est inconnu.\n\nPacifique Sud-Ouest : l'écocertification garantit le respect de certains critères de durabilité. Cependant, l'empereur issu de ces pêcheries écocertifiées est à éviter en raison de la grande fragilité des écosystèmes de grands fonds.\n\n'L'empereur de l'Atlantique Nord-Est ne doit plus se trouver sur les étals, s'il vous est proposé, ne l'achetez pas.\n\nSans certitude sur la durabilité du produit, évitez d'acheter l'empereur de toute autre origine.",
                 "tailleLegale": [
                     {
                         "taille": "/",
@@ -1651,40 +1631,14 @@
                     15,
                     12,
                     90,
-                    102
+                    102,
+                    198
                 ],
-                "etatStock": "Population en bon état mais les captures sont supérieures aux TAC et/ou aux avis scientifiques depuis plusieurs années.\n\nPrivilégiez les grands filets issus d'individus ayant une taille supérieure à leur taille de maturité sexuelle.",
+                "etatStock": "Population en bon état mais légèrement surpêchée.\n\nPrivilégiez les grands filets issus d'individus ayant une taille supérieure à leur taille de maturité sexuelle.",
                 "tailleLegale": [
                     {
                         "taille": "",
                         "sousTexte": "Aucune taille minimale",
-                        "zones": [
-                            
-                        ]
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "58-64 cm",
-                        "sousTexte": "femelle/environ 10 ans",
-                        "zones": [
-                            1
-                        ]
-                    }
-                ]
-            },
-            "ficheEviter": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    198
-                ],
-                "etatStock": "Population surpêchée et dégradée.",
-                "tailleLegale": [
-                    {
-                        "taille": "45 cm",
-                        "sousTexte": "",
                         "zones": [
                             
                         ]
@@ -1719,14 +1673,14 @@
             "scientifique": "Hippoglossus hippoglossus",
             "especeId": 0,
             "texte": "Espèce qui vit près du fond entre 100 et 2000 m de profondeur. Elle fréquente également de moindres profondeurs (en pleine eau).",
-            "ficheModeration": {
+            "fichePrivilegier": {
                 "provenance": [
                     0
                 ],
                 "zones": [
                     56
                 ],
-                "etatStock": "Manque de données scientifiques mais population en augmentation et pression de pêche estimée faible.\n\nPrivilégiez les grands filets issus d'individus ayant une taille supérieure à leur taille de maturité sexuelle.",
+                "etatStock": "Population en bon état et mortalité par pêche estimée faible.\n\nPrivilégiez les grands filets issus d'individus ayant une taille supérieure à leur taille de maturité sexuelle.",
                 "tailleLegale": [
                     {
                         "taille": "81 cm",
@@ -1962,7 +1916,7 @@
                     32,
                     59,
                     60,
-                    62
+                    10
                 ],
                 "etatStock": "Populations en bon état et pêchées durablement.\n\nPrivilégiez les harengs ayant une taille supérieure à leur taille de maturité sexuelle.",
                 "tailleLegale": [
@@ -2004,9 +1958,12 @@
                     0
                 ],
                 "zones": [
-                    208
+                    208,
+                    12,
+                    247,
+                    62
                 ],
-                "etatStock": "Population en diminution depuis 2008, mais non dégradée. Légère surpêche.\n\nPrivilégiez les harengs ayant une taille supérieure à leur taille de maturité sexuelle.",
+                "etatStock": "Stock Atlanto-scandien : population en diminution depuis 2008, mais non dégradée. Légère surpêche.\n\nGolfe de Botnie : Population légèrement dégradée mais non surpêchée.\n\nOuest Ecosse et Ouest et nord-ouest de l'Irlande : population en bon état mais légèrement surpêchée.\n\nPrivilégiez les harengs ayant une taille supérieure à leur taille de maturité sexuelle.",
                 "tailleLegale": [
                     {
                         "taille": "20 cm",
@@ -2147,7 +2104,7 @@
                 "zones": [
                     66
                 ],
-                "etatStock": "Population en bon état et pêchée durablement, mais espèce fragile des grands fonds.\n\nPrivilégiez les grands filets issus d'individus matures ayant une taille supérieure à leur taille de maturité sexuelle.",
+                "etatStock": "Population estimée en bon état mais des incertitudes existent autour de l'évaluation de cette population.Espèce fragile de grands fonds.\n\nPrivilégiez les grands filets issus d'individus matures ayant une taille supérieure à leur taille de maturité sexuelle.",
                 "tailleLegale": [
                     {
                         "taille": "60 cm",
@@ -2293,9 +2250,40 @@
                     0
                 ],
                 "zones": [
-                    1
+                    6,
+                    13,
+                    14,
+                    8,
+                    16
                 ],
-                "etatStock": "Manque de données scientifiques.\n\n Privilégiez les lieus jaunes ayant une taille supérieure à leur taille de maturité sexuelle ou les grandes darnes/filets issus d'individus matures ayant eu le temps de se reproduire.\n\nPréférez les individus pêchés à la ligne.",
+                "etatStock": "Mer du Nord, Skagerrak, Kattegat : manque de données scientifiques.\n\n Golfe de Gascogne, côtes Ibériques : état du stock mal connu, exploitation stable.\n\n Privilégiez les lieus jaunes ayant une taille supérieure à leur taille de maturité sexuelle ou les grandes darnes/filets issus d'individus matures ayant eu le temps de se reproduire.\n\nPréférez les individus pêchés à la ligne.",
+                "tailleLegale": [
+                    {
+                        "taille": "30 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            1
+                        ]
+                    }
+                ],
+                "tailleMaturite": [
+                    {
+                        "taille": "40-60 cm",
+                        "sousTexte": "3-5 ans",
+                        "zones": []
+                    }
+                ]
+            },
+            "ficheEviter": {
+                "provenance": [
+                    0
+                ],
+                "zones": [
+                    5,
+                    18,
+                    12
+                ],
+                "etatStock": "Population effondrée.\n\n Privilégiez les lieus jaunes ayant une taille supérieure à leur taille de maturité sexuelle ou les grandes darnes/filets issus d'individus matures ayant eu le temps de se reproduire.\n\nPréférez les individus pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "30 cm",
@@ -2339,7 +2327,11 @@
                     0
                 ],
                 "zones": [
-                    15
+                    15,
+                    6,
+                    12,
+                    13,
+                    14
                 ],
                 "etatStock": "Population en bon état et pêchée durablement. \n\nPrivilégiez les lieus noirs ayant une taille supérieure à leur taille de maturité sexuelle ou les grands filets/filets issus d'individus matures ayant eu le temps de se reproduire.\n\nPréférez le lieu noir pêché à la ligne.",
                 "tailleLegale": [
@@ -2348,6 +2340,13 @@
                         "sousTexte": "",
                         "zones": [
                             15
+                        ]
+                    },
+                    {
+                        "taille": "35 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            1
                         ]
                     }
                 ],
@@ -2391,42 +2390,7 @@
                         "zones": []
                     }
                 ]
-            },
-            "ficheEviter": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    6,
-                    12,
-                    13,
-                    14
-                ],
-                "etatStock": "Populations dégradées et surpêchées.",
-                "tailleLegale": [
-                    {
-                        "taille": "35 cm",
-                        "sousTexte": "",
-                        "zones": [
-                            1,
-                            13
-                        ]
-                    },
-                    {
-                        "taille": "30 cm",
-                        "sousTexte": "",
-                        "zones": [
-                            14
-                        ]
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "55 cm",
-                        "sousTexte": "4 ans",
-                        "zones": []
-                    }
-                ]
+            
             },
             "saviez": [
                 "La taille minimale de capture est très inférieure à la taille de maturité sexuelle : les poissons capturés n'ont pas eu le temps de se reproduire.",
@@ -2590,16 +2554,15 @@
             "scientifique": "Molva molva",
             "especeId": 0,
             "texte": "Espèce qui vit à proximité des fonds rocheux entre 100 et 500 m de profondeur.",
-            "ficheModeration": {
+            "fichePrivilegier": {
                 "provenance": [
                     0
                 ],
                 "zones": [
                     198,
-                    10,
-                    209
+                    10
                 ],
-                "etatStock": "Islande : population légèrement surpêchée.\n\nArctique Nord-Est, Atlantique Nord-Est : manque de données scientifiques, mais populations estimées en augmentation. Stocks exploités à un niveau durable.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturtité sexuelle ou les grands filets issus d'individus matures ayant eu le temps de se reproduire.\n\nVérifiez le nom latin à l'achat afin de bien différencier la lingue franche de la lingue bleue.",
+                "etatStock": "Population exploitée durablement.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturtité sexuelle ou les grands filets issus d'individus matures ayant eu le temps de se reproduire.\n\nVérifiez le nom latin à l'achat afin de bien différencier la lingue franche de la lingue bleue.",
                 "tailleLegale": [
                     {
                         "taille": "63 cm",
@@ -2622,9 +2585,10 @@
                     0
                 ],
                 "zones": [
-                    15
+                    15,
+                    248
                 ],
-                "etatStock": "La pression de pêche n'est pas compatible avec une exploitation durable.",
+                "etatStock": "Population surexploitée.",
                 "tailleLegale": [
                     {
                         "taille": "63 cm",
@@ -2965,8 +2929,7 @@
                 ],
                 "zones": [
                     6,
-                    32,
-                    12
+                    32
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ayant ainsi eu le temps de se reproduire.\n\nPrivilégiez les merlans pêchés à la ligne.",
                 "tailleLegale": [
@@ -2993,13 +2956,16 @@
                     0
                 ],
                 "zones": [
-                    2,
                     8,
                     16,
                     13,
-                    14
+                    14,
+                    2,
+                    3,
+                    249,
+                    250
                 ],
-                "etatStock": "Golfe de Gascogne et côtes ibériques : stocks en reconstitution. Taux d'exploitation faible.\n\nSkagerrak et Kattegat : manque de données scientifiques.\n\nMéditerranée et mer Noire : manque de données scientifiques.\n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ayant ainsi eu le temps de se reproduire.\n\nPrivilégiez les merlans pêchés à la ligne.",
+                "etatStock": "Golfe de Gascogne, côtes ibériques, Ouest Ecosse:  population dégradée mais non surpêchée.\n\nSkagerrak et Kattegat: population en bon état mais surpêchée.\n\nMéditerranée, mer d'Azov, mer de Marmara, mer Noire : manque de données scientifiques. \n\nPrivilégiez les individus ayant une taille supérieure à la taille de maturité sexuelle, ayant ainsi eu le temps de se reproduire.\n\nPrivilégiez les merlans pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "27 cm",
@@ -3055,10 +3021,9 @@
                 "zones": [
                     5,
                     4,
-                    33,
-                    210
+                    33
                 ],
-                "etatStock": "Mer Celtique, Manche Ouest, mer d'Irlande : stock effondré.\n\nMer Noire : manque de données scientifiques. Application du principe de précaution en raison de la situation générale dégradée dans la mer Noire.",
+                "etatStock": "Population effondrée.",
                 "tailleLegale": [
                     {
                         "taille": "27 cm",
@@ -3160,7 +3125,7 @@
                 "zones": [
                     2
                 ],
-                "etatStock": "En Méditerranée tous les stocks évalués sont largement surpêchés.\n\nLes stocks non évalués sont à eviter par principe de précaution au vu de l'état globalement degradé en Méditerranée.\n\nÀ éviter (ainsi que les stocks non évalués par manque de données scientifiques par principe de précaution vue la situation générale dégradée en Méditerranée).",
+                "etatStock": "En Méditerranée tous les stocks évalués sont largement surpêchés.\n\nÀ éviter (ainsi que les stocks non évalués par manque de données scientifiques par principe de précaution vue la situation générale dégradée en Méditerranée).",
                 "tailleLegale": [
                     {
                         "taille": "20 cm",
@@ -3225,14 +3190,14 @@
                     }
                 ]
             },
-            "ficheEviter": {
+            "ficheModeration": {
                 "provenance": [
                     0
                 ],
                 "zones": [
                     79
                 ],
-                "etatStock": "Après avoir été proche de l'effondrement, la population se reconstitue.La biomasse est en augmentation mais toujours inférieure au seuil de durabilité.",
+                "etatStock": "Après avoir été proche de l'effondrement, la population s'est reconstituée et se porte bien.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle, ou les grands filets/darnes issus d'individus matures, ayant eu le temps de se reproduire. Préférez les individus pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -3292,14 +3257,14 @@
                     }
                 ]
             },
-            "ficheEviter": {
+            "ficheModeration": {
                 "provenance": [
                     0
                 ],
                 "zones": [
                     79
                 ],
-                "etatStock": "Après avoir été proche de l'effondrement la population se reconstitue. La biomasse est en augmentation mais toujours inférieure au seuil de durabilité.",
+                "etatStock": "Après avoir été proche de l'effondrement, la population s'est reconstituée et se porte bien.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle, ou les grands filets/darnes issus d'individus matures, ayant eu le temps de se reproduire. Préférez les individus pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -3670,6 +3635,34 @@
             "scientifique": "Salvelinus alpinus",
             "especeId": 0,
             "texte": "Espèce qui affectionne les eaux froides et bien oxygénées entre 20 et 70 mètres de profondeur.",
+           "ficheModeration": {
+                "provenance": [
+                    0
+                ],
+                "zones": [
+                    85
+                ],
+                "etatStock": "Les populations d'omble chevalier dans les lacs de montagne en France et en Suisse sont fragiles principalement en raison de facteurs environnementaux. L'augmentation de la température des lacs, y compris celle des eaux de grands fonds, leur serait défavorable. Par ailleurs, la bonne santé des stocks de brochet qui se nourrissent de juvéniles d'omble chevalier lui porte également préjudice.\n\nSeul les ombles issus du Léman peuvent être consommés avec modération et uniquement au niveau local.",
+                "tailleLegale": [
+                    {
+                        "taille": "30 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            84,
+                            85,
+                            86
+                        ]
+                    }
+                ],
+                "tailleMaturite": [
+                    {
+                        "taille": "50-60 cm",
+                        "sousTexte": "entre 3 et 10 ans",
+                        "zones": []
+                    }
+                ]
+            },
+            
             "ficheEviter": {
                 "provenance": [
                     0
@@ -4022,9 +4015,48 @@
                 "zones": [
                     4,
                     87,
-                    88
+                    88,
+                    6,
+                    13,
+                    14,
+                    32,
+                    41
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
+                "tailleLegale": [
+                    {
+                        "taille": "",
+                        "sousTexte": "Aucune taille minimale définie par l'Union européenne mais un poids de 300 g (poisson entier)",
+                        "zones": []
+                    },
+                    {
+                        "taille": "45 cm",
+                        "sousTexte": "Règlementation nationale",
+                        "zones": [
+                            186
+                        ]
+                    }
+                ],
+                "tailleMaturite": [
+                    {
+                        "taille": "80 cm",
+                        "sousTexte": "9 ans/femelle",
+                        "zones": [
+                            18,
+                            6
+                        ]
+                    }
+                ]
+            },
+            "ficheModeration": {
+                "provenance": [
+                    0
+                ],
+                "zones": [
+                    52,
+                    90
+                ],
+                "etatStock": "Population en bon état et en augmentation mais légèrement surpêchée.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -4044,44 +4076,7 @@
                         "taille": "",
                         "sousTexte": "Pas de données disponibles",
                         "zones": [
-                        ]
-                    }
-                ]
-            },
-            "ficheModeration": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    6,
-                    13,
-                    14,
-                    32,
-                    52,
-                    90
-                ],
-                "etatStock": "Mer du Nord, Skagerrak, Kattegat, Manche Est : stocks estimés globalement en augmentation mais manque de données pour permettre une évaluation scientifique complète.\n\nBanc des Açores, Nord des Açores : stocks estimés globalement en légère augmentation mais manque de données pour permettre une évaluation scientifique complète (à consommer avec grande modération)\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
-                "tailleLegale": [
-                    {
-                        "taille": "",
-                        "sousTexte": "Aucune taille minimale définie par l'Union européenne mais un poids de 300 g (poisson entier)",
-                        "zones": []
-                    },
-                    {
-                        "taille": "45 cm",
-                        "sousTexte": "Règlementation nationale",
-                        "zones": [
-                            186
-                        ]
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "80 cm",
-                        "sousTexte": "femelle/9 ans",
-                        "zones": [
-                            6,
-                            18
+                            
                         ]
                     }
                 ]
@@ -4163,13 +4158,18 @@
                     0
                 ],
                 "zones": [
-                    6,
+                    16,
                     12,
                     91,
                     92,
                     8,
                     93,
-                    33
+                    33,
+                    4,
+                    6,
+                    13,
+                    14,
+                    32
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
@@ -4196,17 +4196,15 @@
                     }
                 ]
             },
-            "ficheModeration": {
+            "ficheEviter": {
                 "provenance": [
                     0
                 ],
                 "zones": [
-                    6,
-                    13,
-                    14,
-                    32
+                    2,
+                    3
                 ],
-                "etatStock": "Population estimée globalement en augmentation mais manque de données pour permettre une évaluation scientifique complète.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
+                "etatStock": "Manque de données scientifiques.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -4256,7 +4254,9 @@
                     0
                 ],
                 "zones": [
-                    16
+                    16,
+                    251,
+                    32
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
@@ -4468,7 +4468,10 @@
                     93,
                     18,
                     8,
-                    16
+                    16,
+                    6,
+                    13,
+                    14
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
@@ -4500,9 +4503,8 @@
                     0
                 ],
                 "zones": [
-                    6,
-                    13,
-                    14
+                    2,
+                    3
                 ],
                 "etatStock": "Manque de données scientifiques.",
                 "tailleLegale": [
@@ -4555,9 +4557,9 @@
                     0
                 ],
                 "zones": [
-                    212
+                    125
                 ],
-                "etatStock": "Stock en bon état et exploité durablement.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
+                "etatStock": "Population en bon état et exploitée durablement.\n\nPrivilégiez les ailes issues d'individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -4668,7 +4670,7 @@
                     87,
                     88
                 ],
-                "etatStock": "Stock en bon état et exploité durablement.\n\nPrivilégiez les ailes issues d’individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
+                "etatStock": "Population en bon état et exploitée durablement.\n\nPrivilégiez les ailes issues d’individus ayant une taille supérieure à leur taille de maturité sexuelle ; vérifiez ce critère auprès de votre fournisseur.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -4739,50 +4741,7 @@
                 8
             ]
         },
-        {
-            "nom": "Raies autres (petit pocheteau gris, grand pocheteau gris, raie blanche, raie radiée)",
-            "image": "poisson-raieBouclee-text",
-            "vernaculaire": "Raies autres (petit pocheteau gris, grand pocheteau gris, raie blanche, raie radiée)",
-            "scientifique": "Dipturus batis,Dipturus intermedius, Rostroraja alba, Amblyraja radiata",
-            "especeId": 0,
-            "texte": "Espèces qui vivent sur les fonds de sable, de gravier ou de vase.",
-            "ficheEviter": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    0
-                ],
-                "etatStock": "Pêche interdite dans plusieurs zones de l'Atlantique Nord-Est. Populations estiméés très affaiblies.",
-                "tailleLegale": [
-                    {
-                        "taille": "",
-                        "sousTexte": "Aucune taille minimale",
-                        "zones": []
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "",
-                        "sousTexte": "Pas de données disponibles",
-                        "zones": []
-                    }
-                ]
-            },
-            "saviez": [
-                "Près de 45 % des espèces de raie sont considérées comme « menacées » dans les eaux européennes, selon l'UICN (Union internationale pour la conservation de la nature).",
-                "Les raies sont des poissons cartilagineux, le plus souvent pêchés au chalut de fond en tant que prises accessoires.",
-                "Les raies présentent une maturité sexuelle tardive et un taux de fécondité faible, ce qui les rendent très vulnérables à l'activité de pêche.",
-                "Les espèces de pocheteau (Dipturus batis, Dipturus intermedius), la raie radiée (Amblyraja radiata), la raie bouclée (Raja clavata), la raie brunette (Raja undulata), issus de certains stocks sont interdits à la pêche dans les eaux européennes.Lorsque ces espèces sont accidentellement capturées, elles ne doivent pas être blessées et les individus doivent rapidement être remis à l'eau.",
-                "Les différentes espèces de raies sont souvent commercialisées sous le terme générique de raja spp. sans plus de précision. Cette non distinction compromet les statistiques de captures et rend difficile la protection des espèces menacées, alors mélangées aux autres. Le nom précis de l'espèce vendue est rarement indiqué."
-            ],
-            "techniques": [
-                1,
-                2,
-                4,
-                8
-            ]
-        },
+       
         {
             "nom": "Requin (Émissole tachetée)",
             "image": "poisson-requin-text",
@@ -4797,7 +4756,7 @@
                 "zones": [
                     75
                 ],
-                "etatStock": "Manque de données suffisantes pour permettre une évaluation scientifique complète mais stock estimé globalement en augmentation.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité ou les grandes tranches issues d'individus matures ayant eu le temps de se reproduire.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
+                "etatStock": "Manque de données suffisantes pour permettre une évaluation scientifique complète mais population estimée globalement en augmentation.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité ou les grandes tranches issues d'individus matures ayant eu le temps de se reproduire.\n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -4922,6 +4881,41 @@
             "scientifique": "Scyliorhinus canicula",
             "especeId": 0,
             "texte": "Espèce qui vit sur des fonds meubles de sable, de gravier ou de vase, de 20 à 110 m de profondeur (jusqu'à 400 m en Méditerranée)",
+            "fichePrivilegier": {
+                "provenance": [
+                    0
+                ],
+                "zones": [
+                    12,
+                    4,
+                    33,
+                    93
+                ],
+                "etatStock": "Population en bon état, estimée globalement en augmentation et exploitée durablement. \n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
+                "tailleLegale": [
+                    {
+                        "taille": "",
+                        "sousTexte": "Aucune taille minimale\nPoids minimum de 500 g (au sein de l'UE)",
+                        "zones": []
+                    }
+                ],
+                "tailleMaturite": [
+                    {
+                        "taille": "58 cm",
+                        "sousTexte": "femelle/6 ans",
+                        "zones": [
+                            53
+                        ]
+                    },
+                    {
+                        "taille": "40 cm",
+                        "sousTexte": "femelle/5 ans",
+                        "zones": [
+                            2
+                        ]
+                    }
+                ]
+            },
             "ficheModeration": {
                 "provenance": [
                     0
@@ -4930,15 +4924,11 @@
                     6,
                     13,
                     14,
-                    18,
                     32,
-                    12,
-                    4,
-                    93,
                     8,
                     16
                 ],
-                "etatStock": "Manque de données suffisantes pour permettre une évaluation scientifique complète mais stock estimé globalement en augmentation.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité ou les grandes tranches issues d'individus matures ayant eu le temps de se reproduire. \n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
+                "etatStock": "Mer du Nord, Skagerrak, Kattegat, Manche Est : population estimée en augmentation mais surpêchée.\n\nGolfe de Gascogne, côtes Ibériques : manque de données suffisantes pour permettre une évaluation scientifique complète mais stock estimé globalement en augmentation.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité ou les grandes tranches issues d'individus matures ayant eu le temps de se reproduire. \n\nVérifiez le nom latin de l'espèce et son origine avant tout achat ; en l'absence de dénomination précise ou de sa zone de pêche et ne disposant pas de la garantie que l'espèce n'est pas interdite, mieux vaut appliquer le principe de précaution en retenant vos achats.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -4970,7 +4960,7 @@
                 "zones": [
                     2
                 ],
-                "etatStock": "Population non évaluée.",
+                "etatStock": "Manque de données scientifiques.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -5267,9 +5257,12 @@
                     0
                 ],
                 "zones": [
-                    38
+                    38,
+                    39,
+                    252,
+                    253
                 ],
-                "etatStock": "Stocks pêchés durablement.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité sexuelle.\n\nPrivilégiez les rougets pêchés à la ligne.",
+                "etatStock": "Population en bon état et exploitée durablement.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité sexuelle.\n\nPrivilégiez les rougets pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "11 cm",
@@ -5292,16 +5285,17 @@
                     0
                 ],
                 "zones": [
-                    98,
                     99
                 ],
-                "etatStock": "Manque de données scientifiques (espèce non suivie).\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité sexuelle.\n\nPrivilégiez les rougets pêchés à la ligne.",
+                "etatStock": "Manque de données scientifiques sur l'état de la population.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité sexuelle.\n\nPrivilégiez les rougets pêchés à la ligne.",
                 "tailleLegale": [
                     {
-                        "taille": "",
-                        "sousTexte": "Aucune taille minimale",
+                        "taille": "11 cm",
+                        "sousTexte": "",
                         "zones": [
+                            2
                         ]
+
                     }
                 ],
                 "tailleMaturite": [
@@ -5317,7 +5311,7 @@
                     0
                 ],
                 "zones": [
-                    213,
+                    254,
                     3
                 ],
                 "etatStock": "Situation globalement degradée.",
@@ -5369,9 +5363,13 @@
                     12,
                     5,
                     8,
-                    16
+                    16,
+                    6,
+                    13,
+                    14,
+                    32
                 ],
-                "etatStock": "Manque de données scientifiques.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité sexuelle.\n\nPrivilégiez les rougets pêchés à la ligne.",
+                "etatStock": "Mer du Nord, Skagerrak Kattegat, Manche Est : Population en bon état mais surpêchée.\n\n Ouest Ecosse, Mer Celtique, Golfe de Gascogne, Côtes ibériques : manque de données scientifiques.\n\nPrivilégiez les individus ayant une longueur supérieure à leur taille de maturité sexuelle.\n\nPrivilégiez les rougets pêchés à la ligne.",
                 "tailleLegale": [
                     {
                         "taille": "Aucune taille minimale",
@@ -5386,6 +5384,14 @@
                         "zones": [
                             8
                         ]
+                    },
+                    {
+                        "taille": "17 cm",
+                        "sousTexte": "2 ans",
+                        "zones": [
+                            18,
+                            6
+                        ]
                     }
                 ]
             },
@@ -5394,14 +5400,10 @@
                     0
                 ],
                 "zones": [
-                    6,
-                    13,
-                    14,
-                    32,
                     2,
                     3
                 ],
-                "etatStock": "Mer du Nord, Skagerrak Kattegat, Manche Est : malgré un manque de données précises sur l'état des stocks, la population est considérée comme dégradée. Population estimée surpêchée.\n\nMéditerranée, Mer Noire : état des stocks inconnu. À éviter par principe de précaution en raison de la situation globalement dégradée dans ces zones.",
+                "etatStock": "Etat des stocks inconnu. À éviter par principe de précaution en raison de la situation globalement dégradée dans ces zones.",
                 "tailleLegale": [
                     {
                         "taille": "11 cm",
@@ -5417,14 +5419,6 @@
                         "sousTexte": "1 an",
                         "zones": [
                             2
-                        ]
-                    },
-                    {
-                        "taille": "17 cm",
-                        "sousTexte": "2 ans",
-                        "zones": [
-                            6,
-                            18
                         ]
                     }
                 ]
@@ -5582,6 +5576,46 @@
             "scientifique": "Sardina pilchardus",
             "especeId": 0,
             "texte": "Espèce qui vit dans les eaux côtières jusqu'à 120 m de profondeur.",
+            "fichePrivilegier": {
+                "provenance": [
+                    0
+                ],
+                "zones": [
+                    255,
+                    256,
+                    117,
+                    16
+
+                ],
+                "etatStock": "Population en bon état et exploitée durablement.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle. Renseignez-vous sur l'origine des sardines fraîches ou transformées avant tout achat.",
+                "tailleLegale": [
+                    {
+                        "taille": "11 cm",
+                        "sousTexte": "",
+                        "zones": [
+                            1,
+                            2,
+                            3
+                        ]
+                    }
+                ],
+                "tailleMaturite": [
+                                        {
+                        "taille": "17 cm",
+                        "sousTexte": "1 an",
+                        "zones": [
+                            8
+                        ]
+                    },
+                    {
+                        "taille": "17,5 cm",
+                        "sousTexte": "1 an",
+                        "zones": [
+                            40
+                        ]
+                    }
+                ]
+            },
             "ficheModeration": {
                 "provenance": [
                     0
@@ -5593,10 +5627,9 @@
                     4,
                     18,
                     5,
-                    16,
                     3
                 ],
-                "etatStock": "Nord de l' Atlantique Centre-Est, Mers Ligure et Tyrrhénienne Nord : stock en bon état mais mesures de gestion faibles.\n\nSud du golfe de Gascogne, côtes Ibériques : stock en bon état mais légèrement surpêché.\n\nMer d'Irlande, Manche et mer Celtique : manque de données scientifiques.\n\nMer Noire : manque de données scientifiques.",
+                "etatStock": "Nord de l' Atlantique Centre-Est, Mers Ligure et Tyrrhénienne Nord : stock en bon état mais mesures de gestion faibles.\n\nMer d'Irlande, Manche, mer Celtique, mer Noire, mer d'Alboran Sud : manque de données scientifiques.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle. Renseignez-vous sur l'origine des sardines fraîches ou transformées avant tout achat.",
                 "tailleLegale": [
                     {
                         "taille": "11 cm",
@@ -5637,7 +5670,7 @@
                     0
                 ],
                 "zones": [
-                    215,
+                    257,
                     195
                 ],
                 "etatStock": "Nord/centre/large du golfe de Gascogne : population proche du seuil d'effondrement et supêchée. Forte diminution de la taille des individus.\n\nMéditerranée : situation globalement degradée. La capacité de reproduction des populations de sardine commune a sévèrement diminué.",
@@ -5966,6 +5999,41 @@
             "scientifique": "Sebastes norvegicus",
             "especeId": 0,
             "texte": "Espèce qui vit entre 100 et 500 m de profondeur en Atlantique Nord.",
+            "ficheModeration": {
+                "provenance": [
+                    0
+                ],
+                "zones": [
+                    10,
+                    15,
+                    12,
+                    90,
+                    102
+
+                ],
+                "etatStock": "Population en bon état mais espèce classée vulnérable sur la lite de l'UICN.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle, ou les grands filets issus d'individus matures ayant eu le temps de se reproduire.",
+                "tailleLegale": [
+                    {
+                        "taille": "",
+                        "sousTexte": "Aucune taille minimale définie par l'Union européenne",
+                        "zones": []
+                    },
+                    {
+                        "taille": " 32 cm",
+                        "sousTexte": "(réglementation nationale)",
+                        "zones": [
+                            44
+                        ]
+                    }
+                ],
+                "tailleMaturite": [
+                    {
+                        "taille": "35 cm",
+                        "sousTexte": "femelle",
+                        "zones": []
+                    }
+                ]
+            },
             "ficheEviter": {
                 "provenance": [
                     0
@@ -6020,12 +6088,8 @@
                     0
                 ],
                 "zones": [
-                    33,
                     87,
-                    104,
-                    13,
-                    14,
-                    105
+                    104
                 ],
                 "etatStock": "Populations en bon état et pêchées durablement.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle.\nÉvitez de consommer la sole pendant sa période de frai (au printemps en Manche et mer Celtique).",
                 "tailleLegale": [
@@ -6060,16 +6124,20 @@
                     0
                 ],
                 "zones": [
+                    13,
+                    14,
+                    105,
+                    33,
                     106,
                     107,
                     109,
                     4,
                     117,
                     16,
-                    108,
+                    132,
                     3
                 ],
-                "etatStock": " Mer Celtique méridionale, sud-ouest de l'Irlande, Irlande de l'Ouest, sud du golfe de Gascogne, côtes ibériques, Méditerranée (sauf mer Adriatique), mer Noire : manque de données scientifiques.\n\nMer d'Irlande : population en bon état et en augmentation mais légèrement surpêchée.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle.\n\nÉvitez de consommer la sole pendant sa période de frai (au printemps dans la mer Celtique ; de janvier à mars dans le golfe de Gascogne ; de décembre à mars en Méditerranée).",
+                "etatStock": "Skagerrak, Kattegat, Ouest de la mer Baltique, sud du golfe de Gascogne, côtes Ibériques : population légèrement dégradée mais stock exploité durablement.\n\nManche Ouest : population en bon état mais surpêchée.\n\nMer Celtique méridionale, Irlande de l'Ouest, sud-ouest de l'Irlande, Méditerranée (sauf mer Adriatique Nord qui est à éviter) : manque de données scientifiques.\n\nPrivilégiez les individus ayant une taille supérieure à leur taille de maturité sexuelle.\n\nÉvitez de consommer la sole pendant sa période de frai (au printemps dans la mer Celtique ; de janvier à mars dans le golfe de Gascogne ; de décembre à mars en Méditerranée).",
                 "tailleLegale": [
                     {
                         "taille": "24 cm",
@@ -6122,12 +6190,13 @@
                     0
                 ],
                 "zones": [
+                    4,
                     32,
                     6,
                     94,
                     133
                 ],
-                "etatStock": "Manche Est : population en forte diminution depuis 2013 et inférieure au seuil de durabilité.\n\nMer du Nord : stock dégradé et surpêché.\n\nNord et centre  du golfe de Gascogne : population de reproducteurs inférieure au seuil de durabilité.\n\nMer Adriatique Nord : population de reproducteurs en augmentation mais encore inférieure au seuil de durabilité.",
+                "etatStock": "Mer d'Irlande, mer du Nord : population dégradée et surpêchée.\n\nManche Est : population en forte diminution depuis 2013 et inférieure au seuil de durabilité.\n\nNord et centre  du golfe de Gascogne : population de reproducteurs inférieure au seuil de durabilité.\n\nMer Adriatique Nord : population de reproducteurs en augmentation mais encore inférieure au seuil de durabilité.",
                 "tailleLegale": [
                     {
                         "taille": "24 cm",
@@ -6425,31 +6494,7 @@
             "scientifique": "Katsuwonus pelamis",
             "especeId": 0,
             "texte": "Espèce qui vit dans les eaux chaudes (> 20°C) et à salinité élevée, jusqu'à 250 m de profondeur.",
-            "fichePrivilegier": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    54
-                ],
-                "etatStock": "Stocks estimés en bon état.\n\nPrivilégiez les grandes longes/tranches issues d'individus matures ayant eu le temps de se reproduire (longueur à la fourche supérieure à 41-42 cm).\n\nÉvitez le thon listao pêché sous DCP ; certaines pêcheries sont certifiées «FAD free» (sans DCP) et on retrouve cette appellation sur les boites de conserve.\n\nRenseignez-vous sur l'origine du thon frais, surgelé, transformé ou en conserve avant tout achat.",
-                "tailleLegale": [
-                    {
-                        "taille": "",
-                        "sousTexte": "Aucune taille minimale",
-                        "zones": []
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "41-42 cm",
-                        "sousTexte": "(longueur à la fourche)\nfemelle / 1-2 ans",
-                        "zones": [
-                            54
-                        ]
-                    }
-                ]
-            },
+            
             "ficheModeration": {
                 "provenance": [
                     0
@@ -6458,7 +6503,8 @@
                     115,
                     110,
                     111,
-                    185
+                    185,
+                    54
                 ],
                 "etatStock": "Stocks estimés en bon état, mais mesures de gestion absentes ou faibles ou biomasse fragile. \n\nPrivilégiez les grandes longes/tranches issues d'individus matures ayant eu le temps de se reproduire (longueur à la fourche supérieure à 41-42 cm).\n\nÉvitez le thon listao pêché sous DCP ; certaines pêcheries sont certifiées «FAD free» (sans DCP) et on retrouve cette appellation sur les boites de conserve.\n\nRenseignez-vous sur l'origine du thon frais, surgelé, transformé ou en conserve avant tout achat.",
                 "tailleLegale": [
@@ -6481,6 +6527,13 @@
                         "sousTexte": "(longueur à la fourche)\nfemelle/1 an",
                         "zones": [
                             55
+                        ]
+                    },
+                    {
+                        "taille": "41-42 cm",
+                        "sousTexte": "(longueur à la fourche)\nfemelle/1 an",
+                        "zones": [
+                            54
                         ]
                     }
                 ]
@@ -7030,11 +7083,11 @@
                     0
                 ],
                 "zones": [
-                    44,
                     45,
-                    222
+                    44,
+                    138
                 ],
-                "etatStock": "Russie : les stocks sont en bon état mais une importante pêche illégale est suspectée.\n\nNorvège : les stocks sont surpêchés mais l'espèce y est envahissante.\n\n le seul stock autorisé à la pêche est celui de Norton Sound et il est en bon état.\n\nRenseignez-vous sur la provenance des individus, afin d'éviter les produits issus de la pêche illégale.",
+                "etatStock": "Russie : les stocks sont en bon état mais une importante pêche illégale est suspectée.\n\nNorvège : les stocks sont surpêchés mais l'espèce y est envahissante.\n\n Alaska: stocks en bon état.\n\nRenseignez-vous sur la provenance des individus, afin d'éviter les produits issus de la pêche illégale.",
                 "tailleLegale": [
                     {
                         "taille": "13 cm",
@@ -7524,7 +7577,7 @@
                     0
                 ],
                 "zones": [
-                    54,
+                    258,
                     147,
                     148
                 ],
@@ -7867,7 +7920,10 @@
                 ],
                 "zones": [
                     33,
-                    227,
+                    152,
+                    6,
+                    32,
+                    259,
                     228
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les individus ayant une longueur de la carapace supérieure à leur taille de maturité sexuelle.\n\nÉvitez d'acheter des homards grainés (femelles portant des œufs).",
@@ -8136,7 +8192,10 @@
                     0
                 ],
                 "zones": [
-                    229
+                    190,
+                    261,
+                    262,
+                    263
                 ],
                 "etatStock": "La population est dans un état préoccupant.",
                 "tailleLegale": [
@@ -8422,14 +8481,14 @@
                     0
                 ],
                 "zones": [
-                    233,
+                    12,
                     5,
                     104,
                     106,
                     201,
                     39
                 ],
-                "etatStock": "Stocks en bon état.\n\nPrivilégiez les langoustines ayant eu le temps de se reproduire.\n\nPrivilégiez les langoustines pêchées au casier.",
+                "etatStock": "Populations en bon état.\n\nPrivilégiez les langoustines ayant eu le temps de se reproduire.\n\nPrivilégiez les langoustines pêchées au casier.",
                 "tailleLegale": [
                     {
                         "taille": "8,5 cm",
@@ -8462,11 +8521,9 @@
                 ],
                 "zones": [
                     234,
-                    94,
-                    118,
-                    163
+                    94
                 ],
-                "etatStock": "Ouest et sud-ouest de l'Irlande, banc de Porcupine, nord et centre du golfe de Gascogne : taux d'exploitation compatible avec une gestion durable de la pêcherie.\n\nMer du Nord centrale et méridionale : manque de données scientifiques.\n\nPrivilégiez les langoustines ayant eu le temps de se reproduire.\n\nPrivilégiez les langoustines pêchées au casier.",
+                "etatStock": "Nord et centre du golfe de Gascogne : taux d'exploitation compatible avec une gestion durable de la pêcherie mais biomasse inconnue.\n\nMer du Nord centrale et méridionale : manque de données scientifiques.\n\nPrivilégiez les langoustines ayant eu le temps de se reproduire.\n\nPrivilégiez les langoustines pêchées au casier.",
                 "tailleLegale": [
                     {
                         "taille": "8,5 cm",
@@ -8514,15 +8571,16 @@
                     0
                 ],
                 "zones": [
+                    118,
+                    163,
                     117,
                     104,
                     6,
                     87,
                     108,
-                    235,
-                    236
+                    235
                 ],
-                "etatStock": "Sud du golfe de Gascogne : stock effondré.\n\nCanal de Bristol, Mer Celtique septentrionale : population en hausse mais toujours inférieure au seuil de durabilité.\n\nMer d'Irlande, mer Celtique septentrionale, sud ouest de l'Irlande de l'Est : population inférieure au seuil de durabilité.\n\nMéditerranée : stocks largement surpêchés (sauf celui de l'Adriatique)\n\nFirth of Clyde et Sound of Jura : population non dégradée mais surpêchée.",
+                "etatStock": "Ouest et sud-ouest de l'Irlande, banc de Porcupine: population dégradée et surpêchée.\n\nSud du golfe de Gascogne : stock effondré.\n\nCanal de Bristol, Mer Celtique septentrionale : population en hausse mais toujours inférieure au seuil de durabilité.\n\nMer d'Irlande, mer Celtique septentrionale, sud ouest de l'Irlande de l'Est : population inférieure au seuil de durabilité.\n\nMéditerranée : stocks largement surpêchés (sauf celui de l'Adriatique)",
                 "tailleLegale": [
                     {
                         "taille": "8,5 cm",
@@ -9132,40 +9190,14 @@
             "scientifique": "Loligo vulgaris",
             "especeId": 1,
             "texte": "Céphalopode qui vit de la surface à 200 m de profondeur en Méditerranée et en Atlantique Est.",
-            "fichePrivilegier": {
-                "provenance": [
-                    0
-                ],
-                "zones": [
-                    37
-                ],
-                "etatStock": "Stock en bon état et exploité durablement.\n\nPrivilégiez les encornets pêchés à la turlutte.",
-                "tailleLegale": [
-                    {
-                        "taille": "13 cm",
-                        "sousTexte": "",
-                        "zones": [
-                        ]
-                    }
-                ],
-                "tailleMaturite": [
-                    {
-                        "taille": "17,5-23 cm",
-                        "sousTexte": "(longueur dorsale du manteau)\nfemelle",
-                        "zones": [
-                            1
-                        ]
-                    }
-                ]
-            },
             "ficheModeration": {
                 "provenance": [
                     0
                 ],
                 "zones": [
-                    220
+                    265
                 ],
-                "etatStock": "Méditerranée, Manche, Nord et Centre du golfe de Gascogne, Sénégal-Gambie : manque de données scientifiques.\n\nPrivilégiez les encornets pêchés à la turlutte.",
+                "etatStock": "Manque de données scientifiques.\n\nPrivilégiez les encornets pêchés à la turlutte.",
                 "tailleLegale": [
                     {
                         "taille": "Aucune",
@@ -9196,9 +9228,10 @@
                     0
                 ],
                 "zones": [
-                    134
+                    134,
+                    131
                 ],
-                "etatStock": "Population largement inférieure au seuil de durabilité.",
+                "etatStock": "Population dégradée.",
                 "tailleLegale": [
                     {
                         "taille": "Aucune",
@@ -9933,8 +9966,9 @@
                     0
                 ],
                 "zones": [
-                    127,
-                    8
+                    8,
+                    134,
+                    266
                 ],
                 "etatStock": "Populations en bon état.\n\nPrivilégiez les poulpes pêchés au pot ou au casier.",
                 "tailleLegale": [
@@ -9961,7 +9995,6 @@
                     0
                 ],
                 "zones": [
-                    130,
                     2,
                     221,
                     54,
@@ -10013,10 +10046,10 @@
                     0
                 ],
                 "zones": [
-                    131,
-                    40
+                    127,
+                    131
                 ],
-                "etatStock": "Mauritanie : stock dégradé et surpêché.\n\nMaroc : biomasse actuel non durable. Une importante pêche illégale est soupçonnée.",
+                "etatStock": "Population dégradées et surpêchées.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -10096,7 +10129,9 @@
                     0
                 ],
                 "zones": [
-                    131
+                    131,
+                    127,
+                    40
                 ],
                 "etatStock": "Population en bon état.\n\nPrivilégiez les seiches pêchées au casier.",
                 "tailleLegale": [
@@ -10158,11 +10193,9 @@
                     0
                 ],
                 "zones": [
-                    133,
-                    127,
-                    40
+                    133
                 ],
-                "etatStock": "Sénégal-Gambie : population non dégradée mais surpêchée.\n\nMer Adriatique Nord et Maroc : population dégradée et surpêchée.",
+                "etatStock": "Population dégradée et surpêchée.",
                 "tailleLegale": [
                     {
                         "taille": "",
@@ -14108,6 +14141,103 @@
         {
             "id": 245,
             "nom": "Méditerranée (UE)"
+        },
+        {
+            "id": 246,
+            "nom": "Mer Méditerranée (sauf mers Ligure et Tyrrhénienne Nord, mer Ionienne Est, mer Egée, golfe du Lion, Sicile du Sud, mer d'Azov)"
+        }
+        ,
+        {
+            "id": 247,
+            "nom": "Ouest et nord-ouest de l'Irlande"
+        },
+        {
+            "id": 248,
+            "nom": "Atlantique Nord-Est (sauf mer de Barents, mer de Norvège et Islande)"
+        },
+        {
+            "id": 249,
+            "nom": "Mer d'Azov"
+        },
+        {
+            "id": 250,
+            "nom": "Mer de Marmara"
+        },
+        {
+            "id": 251,
+            "nom": "Centre et sud de la mer du Nord"
+        },
+        {
+            "id": 252,
+            "nom": "Mer Ligure"
+        },
+        {
+            "id": 253,
+            "nom": "Mer Thyrrénienne"
+        },
+        {
+            "id": 254,
+            "nom": "Autres zones de Méditeranée (Mer d'Alboran Nord, nord de l'Espagne)"
+        },
+        {
+            "id": 255,
+            "nom": "Mers Ligure et Tyrrhénienne Nord"
+        },
+        {
+            "id": 256,
+            "nom": "Nord de la Tunisie"
+        },
+        {
+            "id": 257,
+            "nom": "Méditerranée (sauf mers Ligure et Tyrrhénienne Nord, nord de la Tunisie, mer d'Alboran sud)"
+        },
+        {
+            "id": 258,
+            "nom": "Océan Indien (sauf ZEE du Bangladesh)"
+        },
+        {
+            "id": 259,
+            "nom": "(eaux territoriales françaises)"
+        },
+        {
+            "id": 260,
+            "nom": "(eaux territoriales anglaises)"
+        },
+        {
+            "id": 261,
+            "nom": "Cuba"
+        },
+        {
+            "id": 262,
+            "nom": "Colombie"
+        },
+        {
+            "id": 263,
+            "nom": "Belize"
+        },
+        {
+            "id": 264,
+            "nom": "Papouasie-Nouvelle-Guinée"
+        },
+        {
+            "id": 265,
+            "nom": "Toutes provenances (sauf Cap blanc en Mauritanie et Dakhla au Maroc)"
+        },
+        {
+            "id": 266,
+            "nom": "Guinée Bissau"
+        },
+        {
+            "id": 267,
+            "nom": "Côte sud de la Norvège (entre 62° nord et 67° nord)"
+        },
+        {
+            "id": 268,
+            "nom": "Nord-Est Arctique (mer de Barents et mer de Norvège) au large"
+        },
+        {
+            "id": 269,
+            "nom": "Côte nord de la Norvège (au nord de 67° nord)"
         }
     ],
     "especes": [
