@@ -42,7 +42,7 @@
                 "zones": [
                     8,
                     35,
-                    294
+                    214
                 ],
                 "etatStock": "Population en bon état et pêchée durablement.\n\nPrivilégiez les anchois ayant eu le temps de se reproduire.\n\nRenseignez-vous sur l'origine des anchois frais et transformés avant tout achat.",
                 "tailleLegale": [
@@ -14044,7 +14044,7 @@
         },
         {
             "id": 221,
-            "nom": "Atlantique Nord-Est (sauf golfe de Gacogne)"
+            "nom": "Atlantique Nord-Est (sauf golfe de GaScogne)"
         },
         {
             "id": 222,
